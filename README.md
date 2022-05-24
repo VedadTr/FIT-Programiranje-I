@@ -1,8 +1,7 @@
-# FIT-Programiranje-I
-Repozitorij gotovih ispitnih zadataka
 
 
-Zadatak 1.
+
+# Zadatak 1.
 Napisati program u kojem je potrebno unijeti odabrani broj cifara počevši od cifre najveće težinske vrijednosti, pa od njih sastaviti i ispisati prirodni broj. 
 Unos cifara se prekida kada se unese broj manji od 0 ili veći od 9. Ispis neka bude oblika:
 
